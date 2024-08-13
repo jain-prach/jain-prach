@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I'm currently working on personal projects that could highlight what I learned as a data enthusiast.
+- 🌱 I'm learning skills to be a better data scientist and computer science engineer.
 <!--
 **jain-prach/jain-prach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
